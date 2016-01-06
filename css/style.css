@@ -1,0 +1,47 @@
+h1{
+text-align: center;
+color: #803f00
+
+}
+h2{
+  text-decoration: underline;
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+.header{
+  text-shadow: 1.5px 1.5px purple;
+}
+
+body{
+  background-image:"images/background.jpg";
+  background-color: orange;
+}
+
+div {
+    -webkit-columns: 300px 2; /* Chrome, Safari, Opera */
+    -moz-columns: 300px 2; /* Firefox */
+    columns: 300px 2;
+}
+
+.imgtext {
+  text-overflow: clip;
+  font-family: fantasy;
+  font-size: 18px;
+  font-variant: small-caps;
+
+}
+
+.about{
+  width: 300px;
+  float: right;
+
+}
+
+.image{
+  float: left;
+  width: 900px;
+  height: 500px;
+
+}
